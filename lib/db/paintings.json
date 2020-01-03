@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "description": "The woman sits markedly upright in a pozzetto armchair with her arms folded, a sign of her reserved posture. Her gaze is fixed on the observer.",
+        "year": 1503,
+        "location": "The Louvre Museum, Paris",
+        "img": "mona.jpg"
+    },
+    {
+        "name": "The Son of Man",
+        "artist": "Rene Magritte",
+        "description": "The painting consists of a man in an overcoat and a bowler hat standing in front of a low wall, beyond which are the sea and a cloudy sky. The man's face is largely obscured by a hovering green apple. However, the man's eyes can be seen peeking over the edge of the apple. Another subtle feature is that the man's left arm appears to bend backwards at the elbow.",
+        "year": 1964,
+        "location": "Private collection",
+        "img": "man.jpg"
+    },
+    {
+        "name": "The Doors of Tamerlane",
+        "artist": "Vasily Vereshchagin",
+        "description": "The painting shows two guards standing next to the doors of Tamerlane",
+        "year": 1872,
+        "location": "Tretyakov Gallery, Moscow",
+        "img": "tamerlane.jpg"
+    },
+    {
+        "name": "Portrait of Madame X",
+        "artist": "John Singer Sargent",
+        "description": "Sargent chose the pose for Gautreau carefully: her body boldly faces forward while her head is turned in profile. A profile is both assertion and retreat; half of the face is hidden while, at the same time, the part that shows can seem more defined than full face.",
+        "year": 1884,
+        "location": "Metropolitan Museum of Art, Manhattan",
+        "img": "madame.jpg"
+    },
+    {
+        "name": "Washington Crossing the Delaware",
+        "artist": "Emanuel Leutze",
+        "description": "The painting is notable for its artistic composition. General Washington is emphasized by an unnaturally bright sky, while his face catches the upcoming sun. The colors consist of mostly dark tones, as is to be expected at dawn, but there are red highlights repeated throughout the painting.",
+        "year": 1851,
+        "location": "Metropolitan Museum of Art, New York City",
+        "img": "washington.jpg"
+    }
+]
